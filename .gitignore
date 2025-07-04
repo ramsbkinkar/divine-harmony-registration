@@ -1,0 +1,17 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Local development
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Book For Intro Session directory
+Book For Intro Session _ Divine Harmony_files/
+Book For Intro Session _ Divine Harmony.html 
